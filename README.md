@@ -8,3 +8,4 @@
 * [2月5日(金)](https://nbviewer.org/github/maskot1977/tmd2020/blob/main/tmd2020_1_rdkit.ipynb)
 * [2月12日(金)](https://nbviewer.org/github/maskot1977/tmd2020/blob/main/tmd2020_descriptors_regression.ipynb)
   * [tmd2020_descriptors_classification](https://nbviewer.org/github/maskot1977/tmd2020/blob/main/tmd2020_descriptors_classification.ipynb)
+* [2月19日(金)](https://nbviewer.org/github/maskot1977/tmd2020/blob/main/tmd2020_fingerprints_regression1.ipynb)
